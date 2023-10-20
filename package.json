@@ -1,5 +1,5 @@
 {
-    "private": true,
+    "private": false,
     "name": "@codeeshop/types-cordova-plugin-qrscanner-11",
     "version": "1.0.0",
     "projects": [
