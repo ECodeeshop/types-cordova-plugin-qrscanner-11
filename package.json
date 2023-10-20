@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/cordova-plugin-qrscanner-11",
+    "version": "1.0.0",
+    "projects": [
+        "https://github.com/v1934/cordova-plugin-qrscanner-11"
+    ],
+    "devDependencies": {
+        "@types/cordova-plugin-qrscanner-11": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Anant Negi",
+            "githubUsername": "codeeshop-oc"
+        }
+    ]
+}
