@@ -1,0 +1,1 @@
+# -types-cordova-plugin-qrscanner-11
